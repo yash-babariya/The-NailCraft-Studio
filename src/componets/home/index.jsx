@@ -1,9 +1,10 @@
 import React from 'react'
+import './home.scss'
 
 export default function Home() {
     return (
-        <div>
-            <h1>The NailCraft Studio</h1>
+        <div className='home'>
+            <h1>Comming Soon</h1>
         </div>
     )
 }

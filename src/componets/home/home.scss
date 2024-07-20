@@ -1,0 +1,13 @@
+@import '../../styles/index.scss';
+
+
+.home {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: calc(100vh - 105.06px);
+
+    h1 {
+        font-size: 90px;
+    }
+}
